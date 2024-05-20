@@ -1,4 +1,4 @@
-# Tax Calculator Application
+# CI/CD Tax Calculator Application
 
 The Tax Calculator is a web application designed to perform tax calculations. This README provides an overview of the project structure and the Tekton pipelines used for packaging and deployment.
 
